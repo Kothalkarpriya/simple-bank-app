@@ -1,0 +1,32 @@
+@import "./coolors.css";
+
+footer .ul{
+     display: flex;
+     justify-content: space-between;
+     background-color: var(--primary-col);
+     color: var(--white-tex);
+     padding: 1rem;
+}
+ul{
+     list-style: none;
+     padding: 0;
+}
+.li{
+     display: flex;
+     flex-direction: column;
+}
+.li h4{
+     font-size: 1.1rem;
+     font-family: var(--heading-font );
+     margin: 0;
+}
+.li-con{
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+}
+
+.icon{
+     margin:5px;
+     font-size: 1.2rem;
+}

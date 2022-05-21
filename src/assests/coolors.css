@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+
+:root{
+     --primary-col:#300559;
+     --background-col:#E9ECEF;
+     --black-text:#212529;
+     --white-tex:#F8F9FA;
+     --text-font: 'Montserrat', sans-serif;
+     --heading-font: 'Merriweather', serif;
+}  
